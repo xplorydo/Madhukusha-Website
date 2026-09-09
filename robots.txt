@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xplorydo.github.io/Madhukusha-Website/sitemap.xml
